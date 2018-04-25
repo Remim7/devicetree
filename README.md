@@ -1,6 +1,9 @@
-你可以通过这clone所有依赖文件
-注意放到合适的文件夹
-文件夹位置都在mk.dependencies
+你可以通过这clone所有依赖文件，
+
+注意放到合适的文件夹，
+
+文件夹位置都在mk.dependencies。
+
 举个例子
 "repository": "android_device_sony_rhine-common",
 "target_path": "device/sony/rhine-common"
